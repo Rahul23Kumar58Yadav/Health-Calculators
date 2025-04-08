@@ -1,0 +1,38 @@
+.support-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+  padding: 20px;
+}
+
+.support-content {
+  text-align: center;
+  max-width: 600px;
+  background: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.support-content h1 {
+  font-size: 2.5rem;
+  color: #1976d2;
+  margin-bottom: 20px;
+}
+
+.support-content p {
+  font-size: 1.1rem;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.contact-info {
+  font-size: 1rem;
+  color: #555;
+}
+
+.contact-info p {
+  margin: 10px 0;
+}
