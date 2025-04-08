@@ -1,0 +1,8 @@
+/* Add this to your CSS file */
+.MuiMenu-paper {
+  margin-top: 45px; /* Adjust as needed */
+}
+
+.MuiMenuItem-root {
+  font-size: 0.9rem;
+}
